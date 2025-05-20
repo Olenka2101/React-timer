@@ -1,7 +1,7 @@
 # 🚀 Project Name // React - Timer
 
-A short, clear description of your project and its purpose.  
-(Example: A responsive web app that helps users track their daily tasks efficiently.)
+ A responsive web app that helps users track time.
+ Perfect desktop feature.
 
 ## 📖 Table of Contents
 
@@ -14,23 +14,9 @@ A short, clear description of your project and its purpose.
 - [License](#license)
 
 ## 🎬 Demo
+![Screenshot 2025-05-13 105321](https://github.com/user-attachments/assets/6f734954-ec5f-4857-a415-33e653f6c9b4)
 
-[Live Demo](https://your-live-demo-link.com)
 
-![App Screenshot](screenshot.png)
-
-## ✨ Features
-
-- Feature 1 – e.g., Responsive layout
-- Feature 2 – e.g., RESTful API integration
-- Feature 3 – e.g., Dark mode toggle
-- Feature 4 – e.g., User authentication with JWT
-
-## 🛠 Installation
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/project-name.git
 
 
 # Getting Started with Create React App
