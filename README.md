@@ -26,9 +26,9 @@ A responsive web application built with React, HTML, and CSS that displays the c
 
 ## 💻 Technologies used
  Built with:
- React,
- HTML,
- CSS 
+ ⭐React
+ ⭐HTML
+ ⭐CSS 
 
 
 # Getting Started with Create React App
