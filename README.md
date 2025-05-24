@@ -6,7 +6,6 @@ This sleek and functional tool is ideal for desktop use, providing users with a 
 ## 📖 Table of Contents
 
 - [Demo](#demo)
-- [Features](#features)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 
